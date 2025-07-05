@@ -8,7 +8,7 @@ Hi there. This is an attempt to create a visual representation for the **Mosaic 
 
 ## Info
 
-I have used Python to create a GUI with PySimpleGUI library and a naive approach to solving the Mosaic Browsing problem (yeah, general nested looping - bad $O(n^2)$ time complexity, for a better approach, see the video solutions on YouTube that use a Fast Forier Transform and String Pattern Matching techniques). The main idea is to try and make a GUI to visually look at the matches.
+I have used Python to create a GUI with PySimpleGUI library and a naive approach to solving the Mosaic Browsing problem (yeah, general nested looping - bad $O(n^2)$ time complexity, for a better approach, refer to the official solution video on YouTube that use a Fast Fourier Transform and String Pattern Matching techniques). The main idea here is to make a GUI to visually look at the matches.
 
 ## Codeview
 
@@ -16,5 +16,5 @@ I have used Python to create a GUI with PySimpleGUI library and a naive approach
 
 **Libraries Used**:
 
-* **PySimpleGUI** - For creating windows, buttons, input fieds and other GUI elements
+* **PySimpleGUI** - For creating windows, buttons, input fields and other GUI elements
 * **OpenCV** - For drawing images of mosaic and motif, highlighting regions
