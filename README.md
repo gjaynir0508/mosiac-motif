@@ -18,3 +18,7 @@ I have used Python to create a GUI with PySimpleGUI library and a naive approach
 
 * **PySimpleGUI** - For creating windows, buttons, input fields and other GUI elements
 * **OpenCV** - For drawing images of mosaic and motif, highlighting regions
+
+## Instructions
+
+To run the application, you will need a Python Interpreter. Then, install the necessary dependencies (pysimplegui, opencv-python, numpy) and run the gui.py file from the root directory of the project, "Mosaic Motif" or "Mosaic Motif Colourful" directories to see the applications. 
